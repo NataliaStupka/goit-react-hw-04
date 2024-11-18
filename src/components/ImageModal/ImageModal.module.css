@@ -1,0 +1,20 @@
+.descriptions {
+  display: flex;
+  gap: 40px;
+  margin-top: 10px;
+  margin-left: 15px;
+  color: rgb(62, 42, 130);
+}
+.name {
+  font-weight: 600;
+}
+
+.closeBtn {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  background-color: transparent;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+}
