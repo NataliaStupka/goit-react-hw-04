@@ -15,6 +15,12 @@ const customStyles = {
     transform: 'translate(-50%, -50%)',
   },
 };
+// ТАК НЕ ВИЙШЛО:
+// В customStyles  можна додати ще одне поле overlay з значенням backgroundColor
+//  overlay: {
+//   backgroundColor: "rgba(0,0,0, 0.5) ",
+//  },
+//спрацювало в index css class + !important
 
 Modal.setAppElement('#root'); //прив'язка Modal до app
 

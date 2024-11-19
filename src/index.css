@@ -38,6 +38,11 @@ ol {
   list-style: none;
 }
 
+/* ---= Для бекдропа модального вікна =---- */
+/* .ReactModal__Overlay--after-open {
+  background-color: rgba(26, 23, 26, 0.9) !important;
+} */
+
 /* :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
